@@ -9,7 +9,7 @@
 [![AIGC](https://img.shields.io/badge/AIGC-Short%20Drama%20%7C%20Manju-purple.svg)](#)
 [![Models](https://img.shields.io/badge/Models-Seedance%202.5%20%7C%20MiniMax%20H3%20%7C%20Kling%20%7C%20Dreamina-success.svg)](#)
 
-[English](./README_EN.md) | [中文说明](./README.md) | [Online Studio](https://ai.shuimukuaixie.com/manju) | [Prompt Guide](./docs/prompt-guide.md)
+[English](./README_EN.md) | [中文说明](./README.md) | [Official Website / Online Studio](http://huojuhou.shuimukuaixie.com/) | [Prompt Guide](./docs/prompt-guide.md)
 
 </div>
 
@@ -41,7 +41,7 @@ It eliminates the fragmented "single-prompt slot machine" workflow by unifying *
 
 ## 📥 Get Started
 
-- 🌐 **Web Studio**: [https://ai.shuimukuaixie.com/manju](https://ai.shuimukuaixie.com/manju)
+- 🌐 **Official Website / Web Studio**: [http://huojuhou.shuimukuaixie.com/](http://huojuhou.shuimukuaixie.com/)
 - 💻 **Desktop Portable Client (Windows)**: Self-contained zero-install executable. *(Portable release packaging in progress)*
 
 ---

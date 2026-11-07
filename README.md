@@ -9,7 +9,7 @@
 [![AIGC](https://img.shields.io/badge/AIGC-Short%20Drama%20%7C%20Manju-purple.svg)](#)
 [![Models](https://img.shields.io/badge/Models-Seedance%202.5%20%7C%20MiniMax%20H3%20%7C%20Kling%20%7C%20Dreamina-success.svg)](#)
 
-[English](./README_EN.md) | [中文说明](./README.md) | [在线体验 / 官网](https://ai.shuimukuaixie.com/manju) | [提示词工程指南](./docs/prompt-guide.md)
+[English](./README_EN.md) | [中文说明](./README.md) | [官方网站 / 在线体验](http://huojuhou.shuimukuaixie.com/) | [提示词工程指南](./docs/prompt-guide.md)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 ## 📥 获取与体验
 
-- 🌐 **Web 在线工作台**：[https://ai.shuimukuaixie.com/manju](https://ai.shuimukuaixie.com/manju)
+- 🌐 **火剧猴官方网站 / Web 在线工作台**：[http://huojuhou.shuimukuaixie.com/](http://huojuhou.shuimukuaixie.com/)
 - 💻 **桌面免安装便携版客户端**：支持 Windows 10 / 11 64位系统。*(便携版封装打包中，即将在此处提供 Release 下载)*
 
 ---
